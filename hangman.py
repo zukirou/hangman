@@ -1,5 +1,4 @@
 import random
-import math
 
 def hangman():
     wordlist = ["cat", "dog", "bird", "insect", "hippopotamus", "zebra"]
